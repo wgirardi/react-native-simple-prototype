@@ -154,4 +154,7 @@ const mapStateToProps = state => ({
   apiResultData: utils.orderArrayAscendingById(state.api.apiUsersResultData),
 });
 
+
+// teste git 
+
 export default connect(mapStateToProps)(UserList);
