@@ -155,6 +155,4 @@ const mapStateToProps = state => ({
 });
 
 
-// teste git 
-
 export default connect(mapStateToProps)(UserList);
